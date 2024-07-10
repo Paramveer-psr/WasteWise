@@ -15,7 +15,7 @@ This Waste Wise Website aims to provide users with comprehensive suggestions for
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://paramveer-psr.github.io/WasteWise/).
 
 ## Technologies Used
 
