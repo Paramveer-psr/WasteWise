@@ -1804,3 +1804,6 @@ section {
     padding-top: 4px;
   }
 }
+button:hover {
+  border-color: #646cff;
+}
